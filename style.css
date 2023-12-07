@@ -1,0 +1,19 @@
+.link {
+    color: green;
+    background-color: lightgray;
+    font-size: 20px;
+}
+
+#main-heading {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.big-text {
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
