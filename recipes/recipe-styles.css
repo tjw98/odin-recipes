@@ -1,0 +1,27 @@
+img {
+    width: 400px;
+    height: auto;
+}
+
+body {
+    text-align: center;
+    background-color: #CCCCFF;
+}
+
+.green-text {
+    color: green;
+}
+
+#big-heading {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+    background-color: lightgoldenrodyellow;
+    color:aquamarine
+}
+
+.small-heading {
+    font-size: 24px;
+    font-weight: 700;
+    color: blue;
+}
