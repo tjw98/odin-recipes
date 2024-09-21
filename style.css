@@ -1,6 +1,6 @@
 * {
     background-color: #FFF0D1;
-    font-family: monospace;
+    font-family: monospace, sans-serif;
 }
 
 #title {
@@ -15,6 +15,7 @@ h2 {
 
 p, li {
     color: #795757;
+    font-size: 14px;
 }
 
 a {
