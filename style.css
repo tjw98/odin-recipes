@@ -1,11 +1,24 @@
+* {
+    background-color: #FFF0D1;
+    font-family: monospace;
+}
+
 #title {
     font-size: 36px;
-    background-color: cyan;
-    font-family: monospace;
+    color: #664343;
+}
+
+h2 {
+    color: #664343;
+    font-size: 28px;
+}
+
+p, li {
+    color: #795757;
 }
 
 a {
     font-size: 20px;
-    color: orange;
+    color: #3B3030;
     font-weight: 200;
 }
